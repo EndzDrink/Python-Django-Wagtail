@@ -1,2 +1,2 @@
 # Python-Django-Wagtail
-This is a product of using Python, Django and Wagtail
+This is a code for developing applications using Python, Django, Wagtail and Tainlwind
